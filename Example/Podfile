@@ -1,0 +1,6 @@
+use_frameworks!
+target 'YMLib_Tests' do
+  pod 'YMLib', :path => '../'
+  
+  
+end
