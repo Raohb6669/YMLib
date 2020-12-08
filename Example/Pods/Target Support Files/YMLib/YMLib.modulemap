@@ -1,0 +1,6 @@
+framework module YMLib {
+  umbrella header "YMLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - YMLib (0.1.0)
+
+DEPENDENCIES:
+  - YMLib (from `../`)
+
+EXTERNAL SOURCES:
+  YMLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YMLib: 1485b213bc572e850e5ec855fcc6651f9d35ac9c
+
+PODFILE CHECKSUM: bf64c1090463769f60bf863ea5c4d7640caf22e7
+
+COCOAPODS: 1.9.1
